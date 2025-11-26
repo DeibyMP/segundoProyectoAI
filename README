@@ -1,0 +1,21 @@
+Este proyecto fue desarrollado en Python, utilizando entornos virtuales y las librerías especificadas en el archivo requerimientos.txt.
+
+Para probar la aplicación del juego SmartHorses, se recomienda seguir los siguientes pasos:
+
+1. Crear el entorno virtual
+py -m venv venv
+
+2. Activar el entorno virtual
+
+En PowerShell:
+
+.\venv\Scripts\Activate.ps1
+
+3. Instalar las dependencias
+pip install -r requerimientos.txt
+
+4. Ejecutar la aplicación
+
+Una vez instalados los requisitos, puedes iniciar el juego con:
+
+py interfaz.py
